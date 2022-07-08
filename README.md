@@ -4,13 +4,15 @@ This application will be an airline service. This service will be from the persp
 
 ## Back-end 
 Access the MongoDB
+
 Flight route and Register route
 
 ## Frond-end
 There are 5 pages:
 
 ### Home Page:
-Using Echart to draw two charts (Customer report and Pun)
+Using Echart to draw two charts (Customer report and Punctuality Rate)
+
 Echart is encapsulated on the Component.bar folder.
 
 ### Flights page:
@@ -23,7 +25,7 @@ create a new flight
 Update a fligh
 
 ### Search page:
-view all flight and advanced fliter, ----todoList
+view all flight and advanced fliter --todo
 
 
 
